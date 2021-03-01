@@ -11,7 +11,7 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "^4.0.0",
     "react-three-fiber": "^5.2.1",
-    "three": "^0.120.1",
+    "three": "^0.125.0",
     "workbox-cli": "^5.1.4"
   },
   "scripts": {
